@@ -3,7 +3,7 @@
 
 Design and implementation of a program to play three-dimensional (3D) Tic-Tac-Toe between you and the computer. 
 
-This is an open question and part of my Algorithm Design (INFSCI 2591) class project. I came up with a powerful AI using Python, or you can also develop some simplest strategies (sort of random move and checksums).  It's basically a 3D version of Connect Four/Noughts and Crosses/Tic Tac Toe, but the grid can also flip itself, which means the people good at spacial awareness have a chance against people good at planning ahead.
+This is an open question and part of my Algorithm Design (INFSCI 2591) class project. I came up with a powerful AI using Python, or you can also develop some simple strategies (like random moves and checksums).  It's basically a 3D version of Connect Four/Noughts and Crosses/Tic Tac Toe, but the grid can also flip itself, which means the people good at spacial awareness have a chance against people good at planning ahead.
 
 The output will be looking like this:
 
